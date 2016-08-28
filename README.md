@@ -29,3 +29,6 @@ npm start
 - [babelrc](https://babeljs.io/docs/plugins/preset-es2015/)
 - [material-ui](http://www.material-ui.com/#/)
 - [webpack+React+material-uiの環境を最小手順で作成](http://qiita.com/takaki@github/items/724d97a20d3ae194ded4)
+- [eslint-loader](https://www.npmjs.com/package/eslint-loader)
+- [eslint-rules](http://eslint.org/docs/rules/)
+- [use-eslint-eslint-loader](http://stackoverflow.com/questions/29883534/webpack-node-modules-css-index-js-didnt-return-a-function)
