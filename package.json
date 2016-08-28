@@ -1,0 +1,31 @@
+{
+  "name": "sample-react",
+  "version": "1.0.0",
+  "description": "this is sample project of react.js",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack -w",
+    "lite": "lite-server",
+    "start": "concurrently \"npm run lite\" \"npm run webpack\""
+  },
+  "keywords": [
+    "react",
+    "webpack"
+  ],
+  "author": "hirokisan",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "concurrently": "^2.2.0",
+    "lite-server": "^2.2.2",
+    "material-ui": "^0.15.4",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  }
+}
