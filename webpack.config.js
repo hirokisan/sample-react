@@ -7,9 +7,13 @@ module.exports = {
     filename: 'bundle.js',
     publicPath: '/app/',
   },
-  module: {
-    loaders: [
-    { test: /\.js$/,  loader: "babel-loader", exclude: /node_modules/ }
-    ]
-  }
+	module: {
+		loaders: [
+		{
+			test: /\.js$/,
+			loader: "babel-loader",
+			exclude: /node_modules/
+		}
+		]
+	}
 }
