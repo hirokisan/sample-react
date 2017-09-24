@@ -1,10 +1,10 @@
-# sample-react
+# SAMPLE-REACT
 
-## version
-- npm 3.10.3
-- node 6.4.0
+## VERSION
+- npm 5.3.0
+- node 8.5.0
 
-## pre set up
+## PRE SET UP
 - install npm
 
 ## set up
@@ -14,13 +14,13 @@ export PATH=$PATH:./node_modules/.bin
 npm install
 ```
 
-## build server
+## BUILD SERVER
 
 ```
 npm start
 ```
 
-## reference
+## REFERENCE
 - [webpack](https://webpack.github.io/)
 - [react](https://facebook.github.io/react/)
 - [babel-preset-es2015](https://www.npmjs.com/package/babel-preset-es2015)
